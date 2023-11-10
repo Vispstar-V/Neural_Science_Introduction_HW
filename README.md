@@ -11,6 +11,7 @@
 
 * 实验数据来源：https://zenodo.org/records/3854034. 请在该网站内下载好对应的数据集，存放至`data`文件夹下。本次作业使用的数据集为indy_20160407_02.mat。若要复现本实验，请执行以下命令：
   ```bash
+  mkdir data
   cd data
   wget https://zenodo.org/records/3854034/files/indy_20160407_02.mat
   ```
